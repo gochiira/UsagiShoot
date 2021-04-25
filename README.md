@@ -9,7 +9,7 @@
 - 敵はクロモン的なものと、既存の隕石システムを利用
 
 ## スクリーンショット (開発中)
-![開発中1](https://github.com/Dosugamea/UsagiShoot/imgs/1.gif "メイン画面")
+![開発中1](https://github.com/Dosugamea/UsagiShoot/blob/main/imgs/1.gif?raw=true "メイン画面")
 
 ## Based source
 This repository based on [phaser3-typescript asteroid example(MIT)](https://github.com/digitsensitive/phaser3-typescript/tree/master/src/games/asteroid)
